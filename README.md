@@ -5,7 +5,7 @@ Implementing an sql database that contains the advertising of positions for Hosp
 ## Description of Database:
 
 •My database represents the following scenario: “Hospitals advertise positions which require specific skills such as Nursing or Administrative etc., whereby candidates may be invited for interviews for the positions”.
-•My database consists of storing the relevant information for this scenario such as hospital details neededfor interviews, interview details, position details, skills needed for position details and candidate details.
+•My database consists of storing the relevant information for this scenario such as hospital details needed for interviews, interview details, position details, skills needed for position details and candidate details.
 
 ## Discussion of assumptions made:
 
